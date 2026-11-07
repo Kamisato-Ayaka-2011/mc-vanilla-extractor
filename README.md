@@ -12,7 +12,7 @@ ZH：
 
 #### GUI 版（推荐）
 
-下载 Release 里的 `extract\\\\\\\_vanilla\\\\\\\_gui.exe`，双击运行：
+下载 Release 里的 `extract\vanilla\gui.exe`，双击运行：
 
 1. 选择 `.minecraft` 目录
 2. 从下拉框选一个实例
